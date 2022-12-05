@@ -1,0 +1,16 @@
+{
+    "shoes": [
+      {
+        "id": 1,
+        "name": "",
+        "image": "./images/",
+        "price": 15.99,
+        "retailPrice": 15.99,
+        "releaseDate": "",
+        "color": ""
+        
+      }
+      
+      
+    ]
+  }
